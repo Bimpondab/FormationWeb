@@ -20,7 +20,7 @@ console.log(tableau[3] + tableau[2]);
 
 
 
-// classe exemple la description d'un personne
+// classe exemple la description 
 // structure conditionnel
 // boucles
 // methode map, filter
