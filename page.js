@@ -10,7 +10,7 @@ console.log(sac);
 const blaise = "blaise à un sac";
 console.log(blaise + " " + sac);
 
-let tt = false
+let tt = true
 
 let tableau = [2, 30, 23, 1, "blaise"];
 console.log(tableau);
